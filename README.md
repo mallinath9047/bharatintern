@@ -1,2 +1,5 @@
 # bharatintern
 some task are complited on data science 
+Task-1: STOCK MARKET PREDICTION AND
+FORECOSTING USING STACKED LMST
+Task-2:TITANIC SURVIVAL PREDICTION
